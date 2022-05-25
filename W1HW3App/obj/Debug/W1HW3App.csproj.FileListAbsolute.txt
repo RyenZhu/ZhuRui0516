@@ -1,0 +1,8 @@
+C:\Users\Ryen Zhu\Desktop\homework\W1HW3App\bin\Debug\W1HW3App.exe.config
+C:\Users\Ryen Zhu\Desktop\homework\W1HW3App\bin\Debug\W1HW3App.exe
+C:\Users\Ryen Zhu\Desktop\homework\W1HW3App\bin\Debug\W1HW3App.pdb
+C:\Users\Ryen Zhu\Desktop\homework\W1HW3App\obj\Debug\W1HW3App.csproj.AssemblyReference.cache
+C:\Users\Ryen Zhu\Desktop\homework\W1HW3App\obj\Debug\W1HW3App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryen Zhu\Desktop\homework\W1HW3App\obj\Debug\W1HW3App.csproj.CoreCompileInputs.cache
+C:\Users\Ryen Zhu\Desktop\homework\W1HW3App\obj\Debug\W1HW3App.exe
+C:\Users\Ryen Zhu\Desktop\homework\W1HW3App\obj\Debug\W1HW3App.pdb
